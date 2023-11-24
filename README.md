@@ -1,3 +1,3 @@
 # Android NDK Example
 
-Calculating the factorial in C unsing JNI
+Calculating factorials in C unsing JNI
